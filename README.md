@@ -23,7 +23,7 @@ Fitness Tracker is a web application designed to help users track their workouts
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/Fitness-Tracker.git`
+1. Clone the repository: `https://github.com/elalae/Fitness-Tracker`
 2. Install dependencies: `npm install`
 3. Run the application: `node app.js`
 
