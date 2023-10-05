@@ -29,9 +29,12 @@ Fitness Tracker is a web application designed to help users track their workouts
 
 Visit [http://localhost:3000](http://localhost:3000) in your browser to get started.
 
+##Preview
+`https://elalae.github.io/Fitness-Tracker/`
+
 ## Status
 
-Will start coding soon! ;D
+Working on the home-page! ;D
 
 
 ## License
